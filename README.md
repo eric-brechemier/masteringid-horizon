@@ -15,6 +15,19 @@ Besides the security audit, the Horizon Foundation wishes to deploy an
 internal training to help its 50,000 employees to recognize potential
 phishing attempts and successfully steer clear of them in the future.
 
+## Project Plan
+
+The project phases follow the course plan of the Master Class:
+
+* Week 1: Project Planning
+* Week 2: Needs Analysis
+* Week 3: Audience Analysis
+* Week 4: Cognitive Task & Instructional Analysis
+* Week 5: Learning Solution Design
+* Week 6: Evidence-Based Strategies
+* Week 7: Prototype Design
+* Week 8: Storyboard
+
 ## Acknowledgments
 
 Master Class and Templates by Connie Malamed,  
