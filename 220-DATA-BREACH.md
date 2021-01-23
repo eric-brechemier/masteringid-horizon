@@ -36,7 +36,7 @@
 | **Breach Type** | Data Breach | Money Transfer |
 | **Breach Vector** | Web | Email |
 | **Breach Cause** | Hacking | Scam (invoices sent from hacked email account) |
-| **Personal Information** | Name, Age, Address, Car Licence, Employer, Estimated Wealth, Total Donations, Donation History, Likelihood to make a bequest | — |
+| **Personal Information** | Name, Age, Address,<br> Car Licence, Employer, <br>Estimated Wealth, Total Donations, <br>Donation History, Likelihood to make a bequest | — |
 | **Impacted Individuals** | Unknown | — |
 | **Amount Stolen** | — | $1M |
 | **Amount Recovered** | — | $112,000 |
