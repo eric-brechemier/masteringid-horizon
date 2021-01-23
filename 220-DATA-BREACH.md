@@ -71,6 +71,7 @@
 [devex2019]: https://www.devex.com/news/unicef-data-leak-reveals-personal-info-of-8-000-online-learners-95558
 
 | About | UNICEF Network Intrusion |
+| :--- | :--- |
 | **Date** | 4 May 2019 |
 | **Breach Type** | Hacker Intrusion |
 | **Breach Vector** | VPN (Remote Access) |
@@ -83,6 +84,7 @@
 [cyware2019]: https://cyware.com/news/hacker-claims-to-have-access-to-internal-networks-of-major-corporations-3830fce8
 
 | About | U.S. Fund for UNICEF Data Breach |
+| :--- | :--- |
 | **Date** | 4 November 2013 |
 | **Breach Type** | |
 | **Breach Vector** | |
