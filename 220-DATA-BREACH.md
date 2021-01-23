@@ -70,18 +70,6 @@
 
 [devex2019]: https://www.devex.com/news/unicef-data-leak-reveals-personal-info-of-8-000-online-learners-95558
 
-| About | UN/NGOs Phishing Attack including UNICEF |
-| :--- | :--- |
-| **Date** | March 2019 |
-| **Breach Type** | Unconfirmed |
-| **Breach Vector** | Email |
-| **Breach Cause** | Phishing |
-| **Personal Information** | Unconfirmed |
-| **Impacted Individuals** | Unconfirmed |
-| **Reference** | [security affairs][securityaffairs2019] |
-
-[securityaffairs2019]: https://securityaffairs.co/wordpress/92938/hacking/ngos-spear-phishing-attacks.html
-
 | About | UNICEF Network Intrusion |
 | **Date** | 4 May 2019 |
 | **Breach Type** | Hacker Intrusion |
