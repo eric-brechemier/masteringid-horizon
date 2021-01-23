@@ -86,9 +86,9 @@
 | About | U.S. Fund for UNICEF Data Breach |
 | :--- | :--- |
 | **Date** | 4 November 2013 |
-| **Breach Type** | |
-| **Breach Vector** | |
-| **Breach Cause** | |
+| **Breach Type** | Data Breach |
+| **Breach Vector** | Server |
+| **Breach Cause** | Hacking |
 | **Personal Information** | Bank Account Number, Credit Card Number, CVV code and Expiration Date, Name, Phone, Email |
 | **Impacted Individuals** | 3+ |
 | **Reference** | [databreaches.net](https://www.databreaches.net/u-s-fund-for-unicef-hacked/) |
