@@ -5,9 +5,9 @@
 | About | Horizon Data Breach |
 | :--- | :--- |
 | **Date** | 2019 |
-| **Breach Type** | Hacking |
-| **Breach Vector** | Email (Phishing) |
-| **Breach Cause** | Hacking |
+| **Breach Type** | Data Breach |
+| **Breach Vector** | Email |
+| **Breach Cause** | Phishing |
 | **Personal Information** | Name, Gender, Birth date, Address, Email, Phone Number, Donation Date and Amount, Credit Card Last 4 and Expiration |
 | **Impacted Individuals** | 45,000 donors |
 
