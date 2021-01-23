@@ -34,10 +34,10 @@
 | **Breach Type** | Data Breach | Money Transfer |
 | **Breach Vector** | Web | Email |
 | **Breach Cause** | Hacking | Scam (invoices sent from hacked email account) |
-| **Personal Information** | Name, Age, Address,<br> Car License, Employer, <br>Estimated Wealth, Total Donations, <br>Donation History, Likelihood to make a bequest | — |
-| **Impacted Individuals** | Unknown | — |
-| **Amount Stolen** | — | $1M |
-| **Amount Recovered** | — | $112,000 |
+| **Personal Information** | Name, Age, Address,<br> Car License, Employer, <br>Estimated Wealth, Total Donations, <br>Donation History, Likelihood to make a bequest | - |
+| **Impacted Individuals** | Unknown | - |
+| **Amount Stolen** | - | $1M |
+| **Amount Recovered** | - | $112,000 |
 | **Reference** | [BBC][bbc2020], [Save the Children](https://www.savethechildren.org/us/about-us/media-and-news/2020-press-releases/save-the-children-statement-on-blackbaud-security-breach), [Blackbaud][blackbaud2020] | [Boston Globe][bostonglobe2018], [HackRead][hackread2018] |
 
 [bbc2020]: https://www.bbc.com/news/technology-53567699
