@@ -12,38 +12,14 @@
 
 ## Similar Organizations
 
-| About | Plan International |
-| :--- | :--- |
-| **Founded** | 1937 |
-| **Headquarters** | Woking, UK |
-| **Services** | Health, Education, Protection |
-| **Location** | Worldwide (75 countries) |
-| **Beneficiaries** | 50M+ children |
-| **Private Donations** | $368M (FY2019) |
-| **Total Revenue** | $895M (FY2019) |
-| **Employees** | 6,978 (on LinkedIn) |
-| **Website** | https://plan-international.org |
-
-| About | Save the Children |
-| :--- | :--- |
-| **Founded** | 1919 |
-| **Headquarters** | London, UK |
-| **Services** | Health, Education, Food, Protection |
-| **Location** | Worldwide (100 countries) |
-| **Beneficiaries** | 144M children |
-| **Private Donations** | $424M (FY2019) |
-| **Total Revenue** | $864M (FY2019) |
-| **Employees** | 11,843 (on LinkedIn) |
-| **Website** | https://www.savethechildren.org |
-
-| About | UNICEF |
-| :--- | :--- |
-| **Founded** | 1946 |
-| **Headquarters** | New York, USA |
-| **Services** | Health, Education, Food, Protection |
-| **Location** | Worldwide (190 countries) |
-| **Beneficiaries** | 300M+ children |
-| **Private Donations** | $695M (FY2019) |
-| **Total Revenue** | $6,412M (FY2019) |
-| **Employees** | 27,053 (on LinkedIn) |
-| **Website** | http://www.unicef.org/ |
+| About | Plan International | Save the Children | UNICEF |
+| :--- | :--- | :--- | :--- |
+| **Founded** | 1937 | 1919 | 1946 |
+| **Headquarters** | Woking, UK | London, UK | New York, USA |
+| **Services** | Health, Education, Protection | Health, Education, Food, Protection | Health, Education, Food, Protection |
+| **Location** | Worldwide (75 countries) | Worldwide (100 countries) | Worldwide (190 countries) |
+| **Beneficiaries** | 50M+ children | 144M children | 300M+ children |
+| **Private Donations (FY2019)** | $368M | $424M | $695M |
+| **Total Revenue (FY2019)** | $895M | $864M | $6,412M |
+| **Employees (on LinkedIn)** | 6,978 | 11,843 | 27,053 |
+| **Website** | https://plan-international.org | https://www.savethechildren.org | https://www.unicef.org/ |
