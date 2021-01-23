@@ -1,4 +1,4 @@
-## Needs Analysis: Horizon Data Breach
+## Horizon Data Breach
 
 | About | Horizon Data Breach |
 | :--- | :--- |
