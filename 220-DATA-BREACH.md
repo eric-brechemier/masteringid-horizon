@@ -1,6 +1,4 @@
-## Needs Analysis: Data Breach
-
-### Horizon Data Breach
+## Needs Analysis: Horizon Data Breach
 
 | About | Horizon Data Breach |
 | :--- | :--- |
@@ -11,9 +9,9 @@
 | **Personal Information** | Name, Gender, Birth date,<br>Address, Email, Phone,<br>Donation Date and Amount,<br>Credit Card Last 4 and Expiration |
 | **Impacted Individuals** | 45,000 donors |
 
-### Security Breaches in Similar Organizations
+## Security Breaches in Similar Organizations
 
-#### Plan International
+### Plan International
 
 | About | Plan UK Server Theft |
 | :--- | :--- |
@@ -28,7 +26,7 @@
 [theregister2015]: https://www.theregister.com/2015/11/27/plan_uk_sever_theft_data_breach/
 [ibt2015]: https://www.ibtimes.co.uk/plan-uk-childrens-charity-devastated-after-burglars-steal-donors-bank-details-1531197
 
-#### Save the Children
+### Save the Children
 
 | About | Blackbaud Hack | Save the Children $1M Scam |
 | :--- | :--- | :--- |
@@ -48,7 +46,7 @@
 [bostonglobe2018]: https://www.bostonglobe.com/business/2018/12/12/hackers-fooled-save-children-into-sending-million-phony-account/KPnRi8xIbPGuhGZaFmlhRP/story.html?event=event25
 [hackread2018]: https://www.hackread.com/wicked-scammers-steal-1-million-from-save-the-children-charity/
 
-#### UNICEF
+### UNICEF
 
 | About | UNICEF Data Leak | UNICEF Network Intrusion | U.S. Fund for UNICEF Data Breach |
 | :--- | :--- | :--- | :--- |
