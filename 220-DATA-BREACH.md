@@ -8,7 +8,7 @@
 | **Breach Type** | Data Breach |
 | **Breach Vector** | Email |
 | **Breach Cause** | Phishing |
-| **Personal Information** | Name, Gender, Birth date, Address, Email, Phone Number, Donation Date and Amount, Credit Card Last 4 and Expiration |
+| **Personal Information** | Name, Gender, Birth date,<br>Address, Email, Phone,<br>Donation Date and Amount,<br>Credit Card Last 4 and Expiration |
 | **Impacted Individuals** | 45,000 donors |
 
 ## Security Breaches in Similar Organizations
