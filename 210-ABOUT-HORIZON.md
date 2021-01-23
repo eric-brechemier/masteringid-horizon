@@ -1,5 +1,3 @@
-## Needs Analysis: Key Facts
-
 ## About the Horizon Foundation
 
 | About | Horizon |
