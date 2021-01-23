@@ -21,7 +21,7 @@
 | **Breach Type** | Data Breach |
 | **Breach Vector** | 5 computer servers stolen |
 | **Breach Cause** | Physical Break-in |
-| **Personal Information** | Bank Account Number and Sort Code, Names, Address, Email |
+| **Personal Information** | Bank Account Number and Sort Code,<br>Names, Address, Email |
 | **Impacted Individuals** | 90,000 donors |
 | **Reference** | [The Register][theregister2015], [IBT][ibt2015], [databreaches.net](https://www.databreaches.net/uk-childrens-charity-hit-by-server-theft/) |
 
