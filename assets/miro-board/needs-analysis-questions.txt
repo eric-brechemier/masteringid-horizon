@@ -76,7 +76,7 @@ Is there general IT/tech training on a regular basis?
 Have you made attempts at educating them [about phishing]? How? Was your attempt successful? If not, why?
 
 # Security Policy
-what kind of measures to you already have to prevent phishing?
+what kind of measures [do] you already have to prevent phishing?
 What are your current IT security measures to mitigate phishing?
 Do you have a policy in place? What is it?
 What are your security measures?
