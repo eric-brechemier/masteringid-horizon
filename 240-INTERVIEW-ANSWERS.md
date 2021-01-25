@@ -82,6 +82,10 @@ The IT department has identified weaknesses in the network security, which
 have been corrected. Security software has been deployed and existing
 applications have been upgraded to apply latest security patches.
 
+New email filters will be deployed, taking advantage of machine learning
+to detect potential phishing attacks and prevent them from reaching members
+of the organization in the first place.
+
 ### New Training Project
 
 The stakeholders of the project is a joint task force of IT and HR,
