@@ -3,7 +3,7 @@
 | About | Horizon |
 | :--- | :--- |
 | **Services** | Education, Health |
-| **Location** | Worldwide |
+| **Location** | Worldwide (5+ countries) |
 | **Facilities** | 2,500 |
 | **Employees** | 50,000 |
 | **Volunteers** | 225,000 |
