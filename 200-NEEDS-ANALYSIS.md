@@ -30,7 +30,7 @@ otherwise cautious person by surprise in a moment of distraction.
 Some employees may feel overconfident in their technical skills,
 but few can tell the difference between scams and spams. Their
 knowledge seems more theoretical than practical. The likeliness
-of employees to fall trap to or correctly ignore or discard scams
+of employees to fall prey to or correctly ignore or discard scams
 has not been evaluated.
 
 ## Goals & Expected Learning Outcomes
