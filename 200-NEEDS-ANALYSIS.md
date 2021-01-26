@@ -7,6 +7,8 @@ with regards to the Security Breach which occurred in 2019:
 * Was a lack in certain security skills at the root of the issue?
 * How to avoid or mitigate that kind of problem in the future?
 
+## Supporting Research
+
 1. [About the Horizon Foundation](210-ABOUT-HORIZON.md)
 2. [Impact of the Data Breach](220-DATA-BREACH.md)
 3. [Questions for the Interviews](230-INTERVIEW-QUESTIONS.md)
