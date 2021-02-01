@@ -21,7 +21,7 @@ The project phases follow the course plan of the Master Class:
 
 * Week 1: [Project Planning](100-PROJECT-PLANNING.md)
 * Week 2: [Needs Analysis](200-NEEDS-ANALYSIS.md)
-* Week 3: Audience Analysis
+* Week 3: [Audience Analysis](300-AUDIENCE-ANALYSIS.md)
 * Week 4: Cognitive Task & Instructional Analysis
 * Week 5: Learning Solution Design
 * Week 6: Evidence-Based Strategies
