@@ -17,9 +17,9 @@ A number of profiles emerged from this study, by grouping people with similar
 answers. We will describe below the three main profiles, which represent more
 than two thirds of the respondents:
 
-1. Nurse, 35, Aware of Breach, Checks Emails 5 times a day from Phone
-2. Chief Nurse, 45, Aware of Breach, Checks Emails 3 times a day from Phone
-3. Doctor, 40, Not Aware of Breach, Checks Emails 2 times a day from Computer
+1. [Nurse, 35, Aware of Breach, Checks Emails 5 times a day from Phone](310-nurse-persona.pdf)
+2. [Chief Nurse, 45, Aware of Breach, Checks Emails 3 times a day from Phone](311-chief-nurse-persona.pdf)
+3. [Doctor, 40, Not Aware of Breach, Checks Emails 2 times a day from Computer](312-doctor-persona.pdf)
 
 ## Themes of Study
 
