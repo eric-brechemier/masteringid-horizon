@@ -58,5 +58,5 @@ of computer systems, networks and computers.
 
 *Field employees have little time to spare for technical audits. But they
 have shown a readiness to give some thought to the consequences of unwittingly
-lending a helping hand to a remote attacker. They have shown motived to fend
-off attempts to take advantage of the people who trust the Horizon Foundation.*
+lending a helping hand to a remote attacker. Their motivation is to fend off
+any attempts to take advantage of the people who trust the Horizon Foundation.*
