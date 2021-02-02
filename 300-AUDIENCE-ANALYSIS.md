@@ -3,7 +3,7 @@
 ## Introduction
 
 We have sent surveys to healthcare personnel of the Horizon Foundation
-in order to assess how they relate to the Security Breach which occurred
+in order to assess how they relate to the security breach which occurred
 last year, and how they perceive their ability to fight phishing and
 other digital threats in the course of their daily job.
 
@@ -29,24 +29,24 @@ than two thirds of the respondents:
 more than half of the respondents do not know or are not sure of which
 procedures to follow to avoid security breaches when opening emails.
 
-While most employees are convinced of the importance of digital safety
+*While most employees are convinced of the importance of digital safety
 procedures, and willing to put them into practice, they are not sufficiently
 aware of the best practices and procedures to follow. The positive attitude
 towards digital safety, and the high level of education among these employees
 are two factors expected to contribute to the success of a future training in
-this domain.
+this domain.*
 
 ### Technical Environment
 
 Less than 10% of respondents check their emails from a computer, while
-3 in 4 check their emails from a phone. The training received by employees
+3 in 4 check their emails from a *phone*. The training received by employees
 during onboarding used to describes procedures to open emails safely when
-using a computer. This creates a discrepancy with the context where these
+using a *computer*. This creates a discrepancy with the context where these
 procedures must be applied when reading email from a phone or tablet.
 
-The training would benefit from being applied in its actual context of use,
+*The training would benefit from being applied in its actual context of use,
 while reading emails in the course of regular activities. The onboarding
-training shall be updated to reflect mainstream usage for email consumption.
+training shall be updated to reflect mainstream usage for email consumption.*
 
 ### Focus on People, Not Data
 
@@ -55,7 +55,7 @@ was considered with more empathy when the emphasis was put on the people
 affected, the donors and the recipients of the organization charity efforts,
 rather than the protection of computer systems, networks and computers.
 
-Field employees have little time to spare for technical audits. But they
+*Field employees have little time to spare for technical audits. But they
 have shown a readiness to give some thought to the consequences of unwittingly
-lending a helping hand to a remote attacker in their attempt to take advantage
-of people's trust in the Horizon Foundation.
+lending a helping hand to a remote attacker, attempting to take advantage
+of people's trust in the Horizon Foundation.*
