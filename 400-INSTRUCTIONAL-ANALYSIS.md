@@ -4,10 +4,10 @@
 
 Reduce the number of donors affected by the leak of
 financial or Personally Identifiable Information (PII),
-ideally to zero, and more realistically to less than
-100 per year.
+to less than 1,000 per year.
 
 ## Gap
 
 Last year, 45,000 donors were affected by the leak of
-financial records and PII.
+financial records and PII. This is a gap of 44,000 donors
+over what would be acceptable per year under this goal.
