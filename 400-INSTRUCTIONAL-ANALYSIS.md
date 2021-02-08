@@ -11,3 +11,12 @@ to less than 1,000 per year.
 Last year, 45,000 donors were affected by the leak of
 financial records and PII. This is a gap of 44,000 donors
 over what would be acceptable per year under this goal.
+
+## Impact & Priority
+
+This gap caused a loss of reputation and a loss of trust,
+resulting in a loss of funds for the organization, due to
+reduced repeat donations and less efficient fundraising campaigns.
+
+Reaching the goal has been given a high priority by the management board,
+and this importance has been communicated to the employees and the volunteers.
