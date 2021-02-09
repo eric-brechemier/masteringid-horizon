@@ -92,6 +92,31 @@ This requires to know how to:
 * Who has access to donor information, and for what purpose
 * Where donor information is stored for subsequent usage.
 
+#### Behavior: Restrict access to sensitive donor information
+
+##### Practice
+
+* Prevent access to sensitive donor information from everyone for 24 hours
+
+##### Minimum Information
+
+* All the files and databases where donor information is stored
+* Who needs access to donor information, when, and for what purpose
+* How to prevent and authorize access to files and databases.
+
+#### Behavior: Differentiate legitimate reasons to access sensitive information
+
+##### Practice
+
+Given a purpose, state orally whether this is a legitimate reason and why.
+If the reason is not deemed legitimate, propose an alternative which does
+not require access to sensitive donor information.
+
+##### Minimum Information
+
+* Criteria to evaluate legitimate reasons to access sensitive information
+* List of alternatives, using anonymous or aggregate information.
+
 ### Subgoal: Prevent Exploits of Employee Privileges Through Phishing
 
 | | |
