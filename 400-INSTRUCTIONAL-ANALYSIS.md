@@ -27,7 +27,7 @@ and this importance has been communicated to the employees and the volunteers.
 
 ### Preventing Access to Sensitive Information of Donors
 
-In order to reach the goal, Horizon employees needs to:
+In order to reach the goal, Horizon employees need to:
 
 * Prevent unauthorized access to financial information of donors
 * Prevent unauthorized access to names and personal details of donors
@@ -38,7 +38,7 @@ This requires to know:
 * how to restrict its access
 * what is a legitimate purpose to access sensitive information
 * how to replace sensitive information with aggregates or anonymous information
-  when sensitive details or not necessary for the task
+  when sensitive details is not necessary for the task
 
 ### Preventing Exploits of Employee Privileges Through Phishing
 
