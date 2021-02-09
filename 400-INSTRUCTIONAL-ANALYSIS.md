@@ -74,16 +74,27 @@ This requires to know how to:
 
 ### Subgoal: Prevent Access to Sensitive Information of Donors
 
-| | |
-|:--|--|
-|**Action**| |
-|**Practice**| |
-|**Minimum Information**| |
+#### Behavior: Keep track of where sensitive donor information is stored
+
+##### Practice
+
+* Find all files and databases where **donor names** are stored
+* Find all files and databases where **donor emails** are stored
+* Find all files and databases where **donor phone numbers** are stored
+* Find all files and databases where **donor addresses** are stored
+* Find all files and databases where **credit card details** of donors are stored
+* Find all files and databases where **bank details** of donors are stored
+* Find all files and databases where **donation history** of donors is stored.
+
+##### Minimum Information
+
+All the places where donor information is stored, and how to access it.  
+Or a list of people to interview to get this information.
 
 ### Subgoal: Prevent Exploits of Employee Privileges Through Phishing
 
 | | |
 |:--|--|
-|**Action**| |
+|**Behavior**| |
 |**Practice**| |
 |**Minimum Information**| |
