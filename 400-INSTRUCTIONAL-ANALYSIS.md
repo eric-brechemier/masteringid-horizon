@@ -119,8 +119,30 @@ not require access to sensitive donor information.
 
 ### Subgoal: Prevent Exploits of Employee Privileges Through Phishing
 
-| | |
-|:--|--|
-|**Behavior**| |
-|**Practice**| |
-|**Minimum Information**| |
+#### Behavior: Do not provide credentials to untrusted sources
+
+##### Practice
+
+Given an email received among other emails during a typical working day,
+with a link to a login page which requests user credentials, but is not
+stored on Horizon Intranet, the employee shall not input their credentials
+in the page.
+
+##### Minimum Information
+
+* How to recognize that a Web page is stored on the Intranet
+* Dangers of phishing.
+
+#### Behavior: Do not run programs sent by untrusted sources
+
+##### Practice
+
+Given an email received among other emails during a typical working day,
+with a link to download an executable file and instructions on how to run
+it on the computer, the employee shall not run the executable.
+
+##### Minimum Information
+
+* What is an executable file
+* How to answer prompts to allow an executable file to run
+  in a way that prevents the executable from running.
