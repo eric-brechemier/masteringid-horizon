@@ -88,8 +88,9 @@ This requires to know how to:
 
 ##### Minimum Information
 
-All the places where donor information is stored, and how to access it.  
-Or a list of people to interview to get this information.
+* Where donor information is first stored when they provide it
+* Who has access to donor information, and for what purpose
+* Where donor information is stored for subsequent usage.
 
 ### Subgoal: Prevent Exploits of Employee Privileges Through Phishing
 
