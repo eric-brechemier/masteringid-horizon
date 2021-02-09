@@ -146,3 +146,37 @@ it on the computer, the employee shall not run the executable.
 * What is an executable file
 * How to answer prompts to allow an executable file to run
   in a way that prevents the executable from running.
+
+#### Behavior: Report suspicious emails
+
+##### Practice
+
+Given an email received among other emails during a typical working day,
+with telltale signs of an urgent or disproportionate request made by an
+unknown contact or by a known contact in an unusual way, the employee
+shall forward the email to the IT department for analysis.
+
+##### Minimum Information
+
+* Email of the IT deparment used to report suspicious emails
+* Identify the claimed email address of the sender
+* Awareness that the sender address can be spoofed
+* Awareness that email of trusted contacts can be compromised
+  (e.g. by a virus) to send emails pretending to originate from them
+* Signs of a different voice (typography, syntax, level of language)
+  used by a trusted source in a written email
+* Signs of disproportionate requests or urgency
+
+#### Behavior: Confirm unexpected requests received by email through a different channel
+
+##### Practice
+
+Given an email received among other emails during a typical working day,
+received from a trusted colleague, with an unusual request to provide
+sensitive information or financial details of donors, the employee shall
+call the colleague to confirm the request before complying.
+
+##### Minimum Information
+
+* Identify requests that lead to disclose sensitive information about donors
+* Identify requests that lead to disclose financial details of donors
