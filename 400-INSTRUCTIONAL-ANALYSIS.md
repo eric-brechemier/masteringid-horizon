@@ -53,7 +53,7 @@ In order to fend off phishing attempts, Horizon employees must:
 * *not* provide credentials to untrusted sources
 * *not* run programs sent by untrusted sources
 * *not* follow instructions of untrusted sources
-* confirm any unexpected request received by email through a different chan
+* confirm any unexpected request received by email through a different channel
 * discard or report any suspicious email
 * ignore and close pop-up messages unrelated to your current activity
 * refuse to run any associated program or script when opening an attachment.
