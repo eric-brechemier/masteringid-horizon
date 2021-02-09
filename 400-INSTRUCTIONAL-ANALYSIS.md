@@ -1,6 +1,12 @@
 # Instructional Analysis
 
-## Summary of Needs Assessment
+## Contents
+
+* [Summary of Needs Assessment](#part1)
+* [Tasks Expected from Horizon Employees](#part2)
+* [Action Mapping to Reduce Donors Affected by Leaks to Less than 1,000/Year](#part3)
+
+## <a id="part1"/>Summary of Needs Assessment
 
 ### Goal
 
@@ -23,7 +29,7 @@ reduced repeat donations and less efficient fundraising campaigns.
 Reaching the goal has been given a high priority by the management board,
 and this importance has been communicated to the employees and the volunteers.
 
-## Tasks Expected from Horizon Employees
+## <a id="part2"/>Tasks Expected from Horizon Employees
 
 ### Preventing Access to Sensitive Information of Donors
 
@@ -63,3 +69,21 @@ This requires to know how to:
 * differentiate expected from unexpected requests for credentials
 * differentiate expected from unexpected pop-up windows and notifications
 * differentiate an attachment including executable code from a static file.
+
+## <a id="part3"/>Action Mapping to Reduce Donors Affected by Leaks to Less than 1,000/Year
+
+### Subgoal: Prevent Access to Sensitive Information of Donors
+
+| | |
+|:--|--|
+|**Action**| |
+|**Practice**| |
+|**Minimum Information**| |
+
+### Subgoal: Prevent Exploits of Employee Privileges Through Phishing
+
+| | |
+|:--|--|
+|**Action**| |
+|**Practice**| |
+|**Minimum Information**| |
