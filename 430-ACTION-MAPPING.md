@@ -1,4 +1,7 @@
 [Back to Instructional Analysis](400-INSTRUCTIONAL-ANALYSIS.md)
+
+[ ![Action Mapping Diagram in PDF format](431-action-mapping.jpg) ](431-action-mapping.pdf)
+
 ## Action Mapping to Reduce Donors Affected by Leaks to Less than 1,000/Year
 
 ### Subgoal: Prevent Access to Sensitive Information of Donors
