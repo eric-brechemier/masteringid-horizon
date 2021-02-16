@@ -3,3 +3,6 @@
 
 # ignore LibreOffice temp files
 .~lock.*
+
+# ignore Scribus temp files
+*_autosave_*.sla
