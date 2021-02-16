@@ -46,7 +46,7 @@ not require access to sensitive donor information.
 * Criteria to evaluate legitimate reasons to access sensitive information
 * List of alternatives, using anonymous or aggregate information.
 
-### Subgoal: Prevent Exploits of Employee Privileges Through Phishing
+### Subgoal: Prevent Exploitation of Employee Privileges Through Phishing
 
 #### Behavior: Do not provide credentials to untrusted sources
 
