@@ -24,7 +24,7 @@ The project phases follow the course plan of the Master Class:
 * Week 3: [Audience Analysis](300-AUDIENCE-ANALYSIS.md)
 * Week 4: [Cognitive Task & Instructional Analysis](400-INSTRUCTIONAL-ANALYSIS.md)
 * Week 5: Evidence-Based Strategies
-* Week 6: Learning Solution Design
+* Week 6: [Learning Solution Design](600-LEARNING-SOLUTION-DESIGN.md)
 * Week 7: Prototype Design
 * Week 8: Storyboard
 
