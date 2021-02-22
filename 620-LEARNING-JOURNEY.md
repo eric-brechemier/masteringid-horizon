@@ -57,5 +57,5 @@ perception of the training by the development team. They will also be
 interviewed once or twice per year, informally, by a member of the Digital
 Awareness Comity.
 
-The involvement of learning champions shall not require them to work overtime,
-and it should be limited to no more than one hour every other month.
+The involvement of learning champions shall not require them to work overtime.
+It should be limited to no more than one hour every other month.
