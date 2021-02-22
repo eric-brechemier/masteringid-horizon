@@ -16,7 +16,7 @@ This requires to know:
 * how to replace sensitive information with aggregates or anonymous information
   when sensitive details is not necessary for the task.
 
-### Preventing Exploits of Employee Privileges Through Phishing
+### Preventing Exploitation of Employee Privileges Through Phishing
 
 In order to fend off phishing attempts, Horizon employees must:
 
