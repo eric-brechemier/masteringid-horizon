@@ -1,10 +1,10 @@
 [Back to Learning Solution Design](600-LEARNING-SOLUTION-DESIGN.md)
 ## Learning Journey
 
-### Digital Awareness Comity (DAC)
+### Digital Awareness Committee (DAC)
 
 The first step of the project, after the initial kick-off meeting,
-shall be to set up the internal Digital Awareness Comity, with at
+shall be to set up the internal Digital Awareness Committee, with at
 least two senior employees from each of the following departments:
 
 - Communication,
@@ -20,7 +20,7 @@ The DAC shall promote these efforts in general terms, through a long-running
 advertising campaign described below. Part of this campaign shall aim to
 recruit the learning champions, a group of volunteers representative of
 different parts of the organization. Through interviews with the learning
-champions, once or twice per year, the comity shall attempt to capture the
+champions, once or twice per year, the committee shall attempt to capture the
 zeitgeist of the organization with regards to digital threats.
 
 They shall report their findings with a report sent to the direction each year
@@ -55,7 +55,7 @@ the news propagate through word of mouth before the fact.
 After the training has been rolled out, they may be interviewed on their own
 perception of the training by the development team. They will also be
 interviewed once or twice per year, informally, by a member of the Digital
-Awareness Comity.
+Awareness Committee.
 
 The involvement of learning champions shall not require them to work overtime.
 It should be limited to no more than one hour every other month.
