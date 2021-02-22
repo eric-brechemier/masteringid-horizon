@@ -2,10 +2,11 @@
 ## Instructional Strategies
 
 The strategy underlying this effort will be to train employees and volunteers
-on the job, as part of their daily activities. Our audience analysis has
-highlighted a lack of time for dedicated training. Also, we wish to keep
-the practice activities as close as possible to the real-life situations,
-in order to maximize the efficiency of the training.
+on the job, as part of their daily activities.
+Our [audience analysis](300-AUDIENCE-ANALYSIS.md) has highlighted a lack of
+time for dedicated training. Also, we wish to keep the practice activities as
+close as possible to the real-life situations, in order to maximize the
+efficiency of the training.
 
 This training will be similar in principle to a vaccine. We will expose
 our audience to realistic phishing emails, which will provide immediate
