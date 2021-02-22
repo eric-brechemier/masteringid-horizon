@@ -20,8 +20,8 @@ to better accommodate the requirements of the projet, or to develop its own
 training phishing solution, depending on the budget available.
 
 We also recommend a number of efforts which do not require the development
-of specific training but require the implementation of changes in different
-parts of the organization:
+of specific training but shall introduce changes in different parts of the
+organization:
 
 1. an update of internal policies on how to handle requests for sensitive
 information or payments received by email. Any such request made by email
