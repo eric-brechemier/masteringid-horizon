@@ -33,3 +33,15 @@ on a need-to-know basis and treated in the same manner as SECRET or TOP SECRET
 information in a military context.
 
 These changes shall be reflected in existing training for affected employees.
+
+### Reinforcement of Attitude through Human Models
+
+Based on available research reported by Robert M. Gagné in
+*The Conditions of Learning*, we recommend to invite authority figures
+to share their experience with data breaches and their consequences.
+For example, an IT specialist from another NGO may be invited to speak
+about the procedures they put in place after a data breach.
+
+Through these human models, members in the audience are expected to gain a
+deeper awareness of the issue, and to become more likely to develop a positive
+attitude towards this effort.
