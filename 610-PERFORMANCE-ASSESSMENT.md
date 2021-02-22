@@ -28,9 +28,9 @@ prove both costly and intrusive in this case, since phishing emails come at
 unpredictable times and are mixed with private communication.
 
 We would thus recommend to evaluate this change of attitude informally,
-through interviews with training champions at the level of each department,
+through interviews with learning champions at the level of each department,
 rather than trying to quantify it for each individual learner. We will
-describe the training champions and their recruitment in more details in
+describe the learning champions and their recruitment in more details in
 the [Learning Journey](620-LEARNING-JOURNEY.md).
 
 Individual mastery of anti-phishing skills will be evaluated by sending
