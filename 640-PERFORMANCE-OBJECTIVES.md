@@ -39,12 +39,30 @@ with the number of records and the names and types of the sensitive details cont
 
 #### Restrict access to donor data
 
-#### Identify legitimate reasons to access data
+Given a list of files and databases, and a list of select Horizon employees  
+the IT specialist  
+EXECUTES (*Motor Skills*)  
+restricting access to the files and databases exclusively to the selected employees  
+by using Horizon IT software utilities with administrator privileges.
+
+#### Identify legitimate reasons to access sensitive donor data
+
+Given a reason to request access to a file or database
+with sensitive donor information,  
+the IT specialist  
+CLASSIFIES (*Intellectual Skill: Defined Concept*)  
+whether the reason is legitimate or not  
+by stating the use of the data
+which cannot be fulfilled without access to the sensitive information,  
+or if the reason is not legitimate,  
+by proposing an alternative means to achieve the expected result without sensitive data.
 
 
 ### Prevent Exploitation of Employee Privileges through Phishing Scams
 
 #### Do not provide credentials to untrusted sources
+
+
 
 #### Do not run programs from untrusted sources
 
