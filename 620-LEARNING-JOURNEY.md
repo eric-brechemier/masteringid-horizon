@@ -17,7 +17,7 @@ and evaluate the efforts of the organization against digital threats,
 without getting involved in the development of the actual training.
 
 The DAC shall promote these efforts in general terms, through a long-running
-advertising campaign described below. Through this campaign, it shall also
+advertising campaign described below. Part of this campaign shall aim to
 recruit the learning champions, a group of volunteers representative of
 different parts of the organization. Through interviews with the learning
 champions, once or twice per year, the comity shall attempt to capture the
