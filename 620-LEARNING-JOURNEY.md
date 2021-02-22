@@ -32,7 +32,7 @@ The advertising campaign shall start at a very early stage,
 well before the start of the development of the actual training.
 It may start with an enigmatic message, introducing only visual
 elements of the campaign at first, later completed with catch phrases
-to raise awareness of digital threats and best practice against them.
+to raise awareness of digital threats and best practices against them.
 
 The campaign may be split between printed posters with no expiration
 date aiming for long-term appeal, and time-limited, contextual
