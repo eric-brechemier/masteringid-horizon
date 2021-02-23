@@ -62,13 +62,42 @@ by proposing an alternative means to achieve the expected result without sensiti
 
 #### Do not provide credentials to untrusted sources
 
-
+Given an email received from an unknown contact in the course of daily activities,  
+with a URL which opens a login page similar to the one on Horizon extranet,  
+the Horizon employee or volunteer  
+IDENTIFIES (Intellectual Skill: Concrete Concept)  
+the login form as unexpected and suspicious  
+by not typing their password in the suspicious form  
+at any point.
 
 #### Do not run programs from untrusted sources
 
+Given an email received from an unknown contact in the course of daily activities,  
+with an attached file which is executable on the computer from which the email is read  
+the Horizon employee or volunteer  
+IDENTIFIES (Intellectual Skill: Concrete Concept)  
+the attached file as executable and suspicious  
+by not allowing it to run on the computer  
+at any point.
+
 #### Report suspicious emails for analysis
+
+Given an email received from an unknown contact in the course of daily activities  
+with tell-tale signs that make it suspicious (an unusual tone or language or an unexpected request)  
+the Horizon employee or volunteer  
+DEMONSTRATES (*Intellectual Skill: Rule*)  
+that they are aware of Horizon policy to report suspicious emails  
+by forwarding it for analysis  
+to the dedicated email address publicized on posters for that purpose,  
+within 2 business days after receiving the email.
 
 #### Confirm unexpected email requests by phone
 
-
-
+Given an email received from a known contact in the course of daily activities  
+with tell-tale signs that make it suspicious (an unusual tone or urgency or an unexpected request)  
+the Horizon employee or volunteer  
+DEMONSTRATES (*Intellectual Skill: Rule*)  
+that they are aware of Horizon policy to double-check unexpected requests received by email  
+by calling the contact to confirm the request  
+using the phone number published for that contact in Horizon directory  
+within 1 business day after receiving the email.
