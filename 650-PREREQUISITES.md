@@ -77,10 +77,71 @@ for common use cases.
 
 #### Do not provide credentials to untrusted sources
 
+Given an email displayed in the email software commonly used by the learner,  
+the Horizon employee or volunteer  
+DISCRIMINATES (*Intellectual Skill: Discrimination*)  
+whether the email address of the sender belongs to one of their known contacts.
+
+Given a Web page displayed in the usual browser of the learner,  
+the Horizon employee or volunteer  
+DISCRIMINATES (*Intellectual Skill: Discrimination*)  
+whether the URL of the Web page corresponds to Horizon intranet/extranet  
+or to a different domain on the Internet.
+
 #### Do not run programs from untrusted sources
+
+Given a file name, including the extension,  
+the Horizon employee or volunteer  
+DISCRIMINATES (*Intellectual Skill: Discrimination*)  
+whether the file is considered executable on a computer.
+
+Given a notification displayed on the computer of the learner,  
+requesting to allow an application to run  
+the Horizon employee or volunteer  
+EXECUTES (*Motor Skills*)  
+closing the notification without granting the request  
+using the computer mouse or keyboard.
 
 #### Report suspicious emails for analysis
 
+Given an email received in the usual email software of the learner  
+the Horizon employee or volunteer  
+IDENTIFIES (*Intellectual Skill: Concrete Concept*)  
+orally  
+several obvious grammatical errors and typos.
+
+Given an email received in the usual email software of the learner  
+the Horizon employee or volunteer  
+DISCRIMINATES (*Intellectual Skill: Discrimination*)  
+by showing on the screen  
+whether the target URL of a link in the email  
+differs from the URL displayed in the text of the link.
+
+Given a copy of a poster from the Digital Awareness Committee  
+the Horizon employee or volunteer  
+STATES (*Verbal Information*)  
+the email address to use to report suspicious emails for analysis.
+
 #### Confirm unexpected email requests by phone
 
+Given a reference card or job aid  
+the Horizon employee or volunteer  
+STATES (*Verbal Information*)  
+verbally  
+at least one way used by scammers to conceal their identity.
 
+Given an email in the common work language of the learner,  
+the Horizon employee or volunteer  
+IDENTIFIES (*Intellectual Skill: Concrete Concept*)  
+whether the email contains a request for sensitive donor information.
+
+Given an email in the common work language of the learner,  
+the Horizon employee or volunteer  
+IDENTIFIES (*Intellectual Skill: Concrete Concept*)  
+whether the email contains a request to perform a payment.
+
+The Horizon employee or volunteer  
+STATES (*Verbal Information*)  
+orally  
+at least one alternative channel to confirm a request received by email,  
+e.g. by phone.
