@@ -10,6 +10,14 @@ including all employees and volunteers part of the organization.
 The first sequence is planned for a typical learning period of 5 weeks,
 while the second sequence is expected to span several years.
 
+None of these two learning sequences may require the specific development
+of e-learning modules. Depending on the number of IT specialists to train,
+the first sequence may be taught from peer to peer, with the support of
+reference cards and job aids. The second sequence may be supported by
+a tool distributing the test phishing and associated learning contents,
+provided by a third-party vendor, probably completed with customized
+printable materials.
+
 ### Module 1: How to Prevent Access to Sensitive Information of Donors
 
 1–2 hours per week over 5 weeks.
