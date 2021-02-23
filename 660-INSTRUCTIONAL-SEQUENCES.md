@@ -14,20 +14,39 @@ while the second sequence is expected to span several years.
 
 1–2 hours per week over 5 weeks.
 
-#### Week 1
+#### Week 1: What is PII?
 
+* what is not PII
+* how PII identifies individuals
+* the gray areas: what becomes PII when cross-referenced
 
-#### Week 2
+#### Week 2: Keeping Payments Confidential
 
+* the role of payment processors
+* PCI compliance
+* How *not* to store payment details
+* Legal obligations with regards to financial records
 
-#### Week 3
+#### Week 3: Workshop with Invited Speaker
 
+1 hour of workshop with a guest, e.g. a data analyst from the military
+or an IT specialist from another NGO, sharing tips and experience
+against digital threats.
 
-#### Week 4
+45 minutes of interview followed with 15 minutes of questions from
+the audience.
 
+#### Week 4: Managing Access to Files and Databases
 
-#### Week 5
+* granting and revoking access to files
+* granting and revoking access to databases
+* creating partial views of tables
 
+#### Week 5: Masking and Aggregating Data
+
+* how aggregating data can make sensitive data anonymous
+* and when it doesn't
+* how to replace sensitive information with fake equivalents
 
 ### Module 2: Gone Phishing
 
