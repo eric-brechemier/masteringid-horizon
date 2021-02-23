@@ -28,7 +28,7 @@ of learning. This is an alternative to Bloom's taxonomy.
 
 ### Prevent Access to Sensitive Information of Donors
 
-#### Keep track of where donor data is stored
+#### Keep track of where sensitive donor data is stored
 
 Given access to Horizon network, shared files and databases,  
 the IT specialist  
