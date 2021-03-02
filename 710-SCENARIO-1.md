@@ -1,4 +1,4 @@
-## Scenario 1
+## Scenario #1
 
 ### Step 1
 
