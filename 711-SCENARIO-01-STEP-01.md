@@ -1,4 +1,4 @@
-## Step 1 0f Scenario #1
+## Step 1 of Scenario #1
 
 After clicking the link found in the email,
 you arrive to a usual login page.  
