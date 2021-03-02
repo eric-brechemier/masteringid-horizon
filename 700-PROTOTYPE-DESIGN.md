@@ -1,6 +1,6 @@
 # Prototype Design: Scenario #1
 
-You receive the following message one day on your work email:
+You have just received the following message one day on your work email:
 
 > Hi,
 >
