@@ -1,6 +1,6 @@
 # Horizon Project
 Instructional Design Project part of Mastering ID Master Class  
-lead by Connie Malamed from January to March 2021
+led by Connie Malamed from January to March 2021
 
 ## Project Summary
 
