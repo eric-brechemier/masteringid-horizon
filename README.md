@@ -1,3 +1,5 @@
+[Contents](README.md) | Horizon Project | [Next](100-PROJECT-PLANNING.md)
+
 # Horizon Project
 Instructional Design Project part of Mastering ID Master Class  
 led by Connie Malamed from January to March 2021
@@ -37,3 +39,5 @@ https://masteringid.com/
 ## Student Author
 
 Eric Bréchemier
+
+[Contents](README.md) | Horizon Project | [Next](100-PROJECT-PLANNING.md)
