@@ -1,5 +1,6 @@
-[Back to Learning Solution Design](600-LEARNING-SOLUTION-DESIGN.md)
-## Performance Assessment
+[Contents](README.md) | [Previous](600-LEARNING-SOLUTION-DESIGN.md) | 6.1 Performance Assessment | [Next](620-LEARNING-JOURNEY.md)
+
+## 6.1 Performance Assessment
 
 The effectiveness of the training will be assessed at two different levels:
 the individual learners and the organization.
@@ -79,3 +80,5 @@ In addition, an internal committee shall evaluate the actions led during
 the year to raise awareness of issues related to digital threats. A one page
 summary of this evaluation shall be included in the annual report of the
 organization published online for donors and the general public.
+
+[Contents](README.md) | [Previous](600-LEARNING-SOLUTION-DESIGN.md) | 6.1 Performance Assessment | [Next](620-LEARNING-JOURNEY.md)

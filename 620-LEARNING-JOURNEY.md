@@ -1,5 +1,6 @@
-[Back to Learning Solution Design](600-LEARNING-SOLUTION-DESIGN.md)
-## Learning Journey
+[Contents](README.md) | [Previous](610-PERFORMANCE-ASSESSMENT.md) | 6.2 Learning Journey | [Next](630-INSTRUCTIONAL-STRATEGIES.md)
+
+## 6.2 Learning Journey
 
 ### Digital Awareness Committee (DAC)
 
@@ -59,3 +60,5 @@ Awareness Committee.
 
 The involvement of learning champions shall not require them to work overtime.
 It should be limited to no more than one hour every other month.
+
+[Contents](README.md) | [Previous](610-PERFORMANCE-ASSESSMENT.md) | 6.2 Learning Journey | [Next](630-INSTRUCTIONAL-STRATEGIES.md)

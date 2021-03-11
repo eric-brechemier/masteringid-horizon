@@ -1,5 +1,6 @@
-[Back to Instructional Analysis](400-INSTRUCTIONAL-ANALYSIS.md) | [Next: Action Mapping](430-ACTION-MAPPING.md)
-## Tasks Expected from Horizon Employees
+[Contents](README.md) | [Previous](410-NEEDS-SUMMARY.md) | 4.2 Tasks Expected from Horizon Employees | [Next](430-ACTION-MAPPING.md)
+
+## 4.2 Tasks Expected from Horizon Employees
 
 ### Preventing Access to Sensitive Information of Donors
 
@@ -40,4 +41,4 @@ This requires to know how to:
 * differentiate expected from unexpected pop-up windows and notifications
 * differentiate an attachment including executable code from a static file.
 
-[Back to Instructional Analysis](400-INSTRUCTIONAL-ANALYSIS.md) | [Next: Action Mapping](430-ACTION-MAPPING.md)
+[Contents](README.md) | [Previous](410-NEEDS-SUMMARY.md) | 4.2 Tasks Expected from Horizon Employees | [Next](430-ACTION-MAPPING.md)

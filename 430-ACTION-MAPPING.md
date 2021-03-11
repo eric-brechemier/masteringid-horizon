@@ -1,8 +1,8 @@
-[Back to Instructional Analysis](400-INSTRUCTIONAL-ANALYSIS.md)
+[Contents](README.md) | [Previous](420-TASKS-EXPECTED.md) | 4.3 Action Mapping to Reduce Donors Affected by Leaks to Less than 1,000/Year | [Next](500-EVIDENCE-BASED-STRATEGIES.md)
 
 [ ![Action Mapping Diagram in PDF format](431-action-mapping.jpg) ](431-action-mapping.pdf)
 
-## Action Mapping to Reduce Donors Affected by Leaks to Less than 1,000/Year
+## 4.3 Action Mapping to Reduce Donors Affected by Leaks to Less than 1,000/Year
 
 ### Subgoal: Prevent Access to Sensitive Information of Donors
 
@@ -113,4 +113,4 @@ call the colleague to confirm the request before complying.
 * Identify requests that lead to disclose sensitive information about donors
 * Identify requests that lead to disclose financial details of donors
 
-[Back to Instructional Analysis](400-INSTRUCTIONAL-ANALYSIS.md)
+[Contents](README.md) | [Previous](420-TASKS-EXPECTED.md) | 4.3 Action Mapping to Reduce Donors Affected by Leaks to Less than 1,000/Year | [Next](500-EVIDENCE-BASED-STRATEGIES.md)

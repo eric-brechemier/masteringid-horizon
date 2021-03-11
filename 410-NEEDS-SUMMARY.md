@@ -1,5 +1,6 @@
-[Back to Instructional Analysis](400-INSTRUCTIONAL-ANALYSIS.md) | [Next: Tasks Expected from Horizon Employees](420-TASKS-EXPECTED.md)
-## Summary of Needs Assessment
+[Contents](README.md) | [Previous](400-INSTRUCTIONAL-ANALYSIS.md) | 4.1 Summary of Needs Assessment | [Next](420-TASKS-EXPECTED.md)
+
+## 4.1 Summary of Needs Assessment
 
 This is a summary of the Needs Analysis.  
 Read the full analysis [here](200-NEEDS-ANALYSIS.md).
@@ -25,4 +26,5 @@ reduced repeat donations and less efficient fundraising campaigns.
 Reaching the goal has been given a high priority by the management board,
 and this importance has been communicated to the employees and the volunteers.
 
-[Back to Instructional Analysis](400-INSTRUCTIONAL-ANALYSIS.md) | [Next: Tasks Expected from Horizon Employees](420-TASKS-EXPECTED.md)
+[Contents](README.md) | [Previous](400-INSTRUCTIONAL-ANALYSIS.md) | 4.1 Summary of Needs Assessment | [Next](420-TASKS-EXPECTED.md)
+

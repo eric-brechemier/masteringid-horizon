@@ -1,5 +1,6 @@
-[Back to Learning Solution Design](600-LEARNING-SOLUTION-DESIGN.md)
-## Performance Objectives
+[Contents](README.md) | [Previous](630-INSTRUCTIONAL-STRATEGIES.md) | 6.4 Performance Objectives | [Next](650-PREREQUISITES.md)
+
+## 6.4 Performance Objectives
 
 For the definition of these performance objectives, we are using the
 framework introduced by Robert M. Gagné and Leslie J. Briggs in
@@ -101,3 +102,5 @@ that they are aware of Horizon policy to double-check unexpected requests receiv
 by calling the contact to confirm the request  
 using the phone number published for that contact in Horizon directory  
 within 1 business day after receiving the email.
+
+[Contents](README.md) | [Previous](630-INSTRUCTIONAL-STRATEGIES.md) | 6.4 Performance Objectives | [Next](650-PREREQUISITES.md)

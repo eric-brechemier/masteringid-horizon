@@ -1,5 +1,6 @@
-[Back to Learning Solution Design](600-LEARNING-SOLUTION-DESIGN.md)
-## Instructional Strategies
+[Contents](README.md) | [Previous](620-LEARNING-JOURNEY.md) | 6.3 Instructional Strategies | [Next](640-PERFORMANCE-OBJECTIVES.md)
+
+## 6.3 Instructional Strategies
 
 The strategy underlying this effort will be to train employees and volunteers
 on the job, as part of their daily activities.
@@ -46,3 +47,5 @@ about the procedures they put in place after a data breach.
 Through these human models, members in the audience are expected to gain a
 deeper awareness of the issue, and to become more likely to develop a positive
 attitude towards this effort.
+
+[Contents](README.md) | [Previous](620-LEARNING-JOURNEY.md) | 6.3 Instructional Strategies | [Next](640-PERFORMANCE-OBJECTIVES.md)

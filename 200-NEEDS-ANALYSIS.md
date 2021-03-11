@@ -1,4 +1,6 @@
-# Needs Analysis
+[Contents](README.md) | [Previous](100-PROJECT-PLANNING.md) | 2. Needs Analysis | [Next](210-ABOUT-HORIZON.md)
+
+# 2. Needs Analysis
 
 The scope of this document is to evaluate the needs of the Horizon Foundation
 with regards to the Security Breach which occurred in 2019:
@@ -89,3 +91,5 @@ organization and its empathy towards anyone who has falling prey to one of
 these attacks, to allow anyone who suspects being a potential victim to
 come forward and ask for help. Reporting a test threat should be valued
 and estimated as well, giving further encouragement to report real threats.
+
+[Contents](README.md) | [Previous](100-PROJECT-PLANNING.md) | 2. Needs Analysis | [Next](210-ABOUT-HORIZON.md)

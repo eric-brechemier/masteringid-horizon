@@ -1,4 +1,6 @@
-## About the Horizon Foundation
+[Contents](README.md) | [Previous](200-NEEDS-ANALYSIS.md) | 2.1 About Horizon | [Next](220-DATA-BREACH.md)
+
+## 2.1 About the Horizon Foundation
 
 | About | Horizon |
 | :--- | :--- |
@@ -21,3 +23,5 @@
 | **Total Revenue (FY2019)** | $895M | $864M | $6,412M |
 | **Employees (on LinkedIn)** | 6,978 | 11,843 | 27,053 |
 | **Website** | https://plan-international.org | https://www.savethechildren.org | https://www.unicef.org/ |
+
+[Contents](README.md) | [Previous](200-NEEDS-ANALYSIS.md) | 2.1 About Horizon | [Next](220-DATA-BREACH.md)

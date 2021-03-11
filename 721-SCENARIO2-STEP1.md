@@ -1,3 +1,5 @@
+[7. Prototype Design](700-PROTOTYPE-DESIGN.md) > [Scenario #2](700-PROTOTYPE-DESIGN.md#scenario2) > Step 1
+
 ## Step 1 of Scenario #2
 
 After clicking the link found in the email,

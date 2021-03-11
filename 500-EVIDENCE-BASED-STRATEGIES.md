@@ -1,4 +1,6 @@
-# Evidence-Based Strategies
+[Contents](README.md) | [Previous](430-ACTION-MAPPING.md) | 5. Evidence-Based Strategies | [Next](600-LEARNING-SOLUTION-DESIGN.md)
+
+# 5. Evidence-Based Strategies
 
 Our design can take advantage of the following principles,
 based on available research about learning.
@@ -25,3 +27,5 @@ based on available research about learning.
 *Learning benefits from explicit guidance, which can decrease over time.*
 
 # How can we use these principles in our design?
+
+[Contents](README.md) | [Previous](430-ACTION-MAPPING.md) | 5. Evidence-Based Strategies | [Next](600-LEARNING-SOLUTION-DESIGN.md)

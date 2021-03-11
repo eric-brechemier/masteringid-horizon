@@ -1,3 +1,5 @@
+[7. Prototype Design](700-PROTOTYPE-DESIGN.md) > [Scenario #2](700-PROTOTYPE-DESIGN.md#scenario2) > Step 3
+
 ## Step 3 of Scenario #2
 
 A few seconds later, the page is defaced.

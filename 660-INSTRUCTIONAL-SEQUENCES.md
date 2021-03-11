@@ -1,5 +1,6 @@
-[Back to Learning Solution Design](600-LEARNING-SOLUTION-DESIGN.md)
-## Instructional Sequences
+[Contents](README.md) | [Previous](650-PREREQUISITES.md) | 6.6 Instructional Sequences | [Next](700-PROTOTYPE-DESIGN.md)
+
+## 6.6 Instructional Sequences
 
 In order to address the two different sets of performance objectives,
 we introduce two instructional sequences below, targeted at two different
@@ -85,3 +86,5 @@ across the 3 levels of difficulty.
   to download a zip archive and install a new program on the computer
 * scam scheme requesting a list of donor emails for fundraising purpose,
   sent from the email address of an existing employee
+
+[Contents](README.md) | [Previous](650-PREREQUISITES.md) | 6.6 Instructional Sequences | [Next](700-PROTOTYPE-DESIGN.md)

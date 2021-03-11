@@ -1,4 +1,6 @@
-## Questions for the Interviews
+[Contents](README.md) | [Previous](220-DATA-BREACH.md) | 2.3 Questions for the Interviews | [Next](240-INTERVIEW-ANSWERS.md)
+
+## 2.3 Questions for the Interviews
 
 From the [Miro board](assets/miro-board/Needs-Analysis-Questions.csv)
 created by the Master Class participants.
@@ -129,3 +131,5 @@ What happens if an employee doesn't receive the training?
 How do you best support your team in learning the [new] technical [information] they need?  
 As a manager, what do you need to do to support your team's new skills?  
 As a manager, what do you need to do to support the new skills of your team?  
+
+[Contents](README.md) | [Previous](220-DATA-BREACH.md) | 2.3 Questions for the Interviews | [Next](240-INTERVIEW-ANSWERS.md)

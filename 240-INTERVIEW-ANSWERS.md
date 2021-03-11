@@ -1,4 +1,6 @@
-## Answers from the interviews
+[Contents](README.md) | [Previous](230-INTERVIEW-QUESTIONS.md) | 2.4 Answers from the Interviews | [Next](300-AUDIENCE-ANALYSIS.md)
+
+## 2.4 Answers from the Interviews
 
 The answers come from different interviews lead with Horizon employees.
 They have been grouped by topic and reworded to preserve anonymity.
@@ -107,3 +109,5 @@ or financial operations.
 Managers need to give employees the tools to recognize threats.
 They also need to give them support to report any suspicious activity,
 without the fear of sanctions.
+
+[Contents](README.md) | [Previous](230-INTERVIEW-QUESTIONS.md) | 2.4 Answers from the Interviews | [Next](300-AUDIENCE-ANALYSIS.md)

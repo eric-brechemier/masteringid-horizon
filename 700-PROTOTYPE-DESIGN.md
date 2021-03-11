@@ -1,4 +1,8 @@
-# Prototype Design: Scenario #2
+[Contents](README.md) | [Previous](660-INSTRUCTIONAL-SEQUENCES.md) | 7. Prototype Design | [Next](800-STORYBOARDS.md)
+
+# 7. Prototype Design
+
+## <a id="scenario2">Scenario #2
 
 You have just received the following message on your work email:
 
@@ -13,3 +17,5 @@ You have just received the following message on your work email:
 > Best,
 >
 > Mitch
+
+[Contents](README.md) | [Previous](660-INSTRUCTIONAL-SEQUENCES.md) | 7. Prototype Design | [Next](800-STORYBOARDS.md)

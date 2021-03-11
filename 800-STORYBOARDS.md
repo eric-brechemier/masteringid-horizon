@@ -1,4 +1,6 @@
-# Storyboards
+[Contents](README.md) | [Previous](700-PROTOTYPE-DESIGN.md) | 8. Storyboards
+
+# 8. Storyboards
 
 ## Prevent Access to Sensitive Information of Donors
 
@@ -73,3 +75,4 @@ That is because the goal of this particular training is to
 to the content to be learned would prove detrimental for this
 learning objective.
 
+[Contents](README.md) | [Previous](700-PROTOTYPE-DESIGN.md) | 8. Storyboards

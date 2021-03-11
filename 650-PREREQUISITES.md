@@ -1,5 +1,6 @@
-[Back to Learning Solution Design](600-LEARNING-SOLUTION-DESIGN.md)
-## Prerequisites
+[Contents](README.md) | [Previous](640-PERFORMANCE-OBJECTIVES.md) | 6.5 Prerequisites | [Next](660-INSTRUCTIONAL-SEQUENCES.md)
+
+## 6.5 Prerequisites
 
 This section lists the learned capabilities which need to be recalled
 in order to produce the observable behaviors which demonstrate learning
@@ -145,3 +146,5 @@ STATES (*Verbal Information*)
 orally  
 **at least one alternative channel to confirm a request received by email**,  
 e.g. by phone.
+
+[Contents](README.md) | [Previous](640-PERFORMANCE-OBJECTIVES.md) | 6.5 Prerequisites | [Next](660-INSTRUCTIONAL-SEQUENCES.md)
