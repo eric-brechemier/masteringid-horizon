@@ -8,10 +8,10 @@ The first step of the project, after the initial kick-off meeting,
 shall be to set up the internal Digital Awareness Committee, with at
 least two senior employees from each of the following departments:
 
-- Communication,
-- Finance,
-- HR,
-- IT.
+- Communication
+- Finance
+- HR
+- IT
 
 The responsibilities of the department shall be to raise awareness
 and evaluate the efforts of the organization against digital threats,
