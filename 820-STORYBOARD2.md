@@ -4,6 +4,8 @@
 
 [INSERT IMAGE OF PAGE 1 OF STORYBOARD #2 HERE] + LINK TO STORYBOARD #2
 
+* [Storyboard #2: Prevent Exploitation of Employee Privileges through Phishing Scams](#LINK-TO-STORYBOARD-2)
+
 In *The Conditions of Learning*, Robert M. Gagné describes 9 events
 that support efficient learning. He lists them in the following order,
 but remarks that the numbering only indicates *an approximate typical order*.
