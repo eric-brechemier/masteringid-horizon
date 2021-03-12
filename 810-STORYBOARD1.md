@@ -2,12 +2,12 @@
 
 ## Storyboard #1: Prevent Access to Sensitive Information of Donors
 
-[INSERT IMAGE OF PAGE 1 OF STORYBOARD #1 HERE]+LINK TO STORYBOARD #1
+[![Storyboard #1: Prevent Access to Sensitive Information of Donors](810-storyboard1-preview.jpg)](810-storyboard1.pdf)
 
 The first storyboard presents a high-level, visual overview
 of the learning experience for the first subgoal:
 
-* [Storyboard #1: Prevent Access to Sensitive Information of Donors](#LINK-TO-STORYBOARD-1)
+* [Storyboard #1: Prevent Access to Sensitive Information of Donors](810-storyboard1.pdf)
 
 While this experience may be support by the development of e-learning
 resources, we recommend to put the emphasis on hands-on activities
