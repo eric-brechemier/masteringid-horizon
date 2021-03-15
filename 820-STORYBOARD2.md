@@ -51,8 +51,8 @@ the order of instructional events is atypical:
 
   * **Before: Instructional Phishing Email**
     - 4\. Plain Stimulus, *Without* Emphasis,
-    - 8\. Assessment
-    - 9\. Generalization and Spaced Reviews,
+    - 8\. Assessment,
+    - 9\. Spaced Reviews and Generalization.
 
   * **After: (Only when Failing the Test) Instructional Scam**
     - 1\. Attracting Attention,
