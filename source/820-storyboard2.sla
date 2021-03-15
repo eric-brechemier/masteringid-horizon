@@ -381,41 +381,41 @@
         <MASTEROBJECT XPOS="672.322834645669" YPOS="54" OwnPage="4" ItemID="1167858464" PTYPE="5" WIDTH="352.333333333333" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" ROT="90" PWIDTH="1" SHADE="0" PCOLOR2="Black" NAMEDLST="Border" PLINEART="1" path="" OnMasterPage="Normal with Audio Only" gXpos="672.322834645669" gYpos="367243.291338585" gWidth="0" gHeight="0" LAYER="2"/>
         <MASTEROBJECT XPOS="672.322834645669" YPOS="234" OwnPage="4" ItemID="1167852832" PTYPE="5" WIDTH="227.066929133858" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" SHADE="0" PCOLOR2="Black" NAMEDLST="Border" PLINEART="1" path="" OnMasterPage="Normal with Audio Only" gXpos="672.322834645669" gYpos="367423.291338585" gWidth="0" gHeight="0" LAYER="2"/>
         <MASTEROBJECT XPOS="672.322834645669" YPOS="264" OwnPage="4" ItemID="1167978272" PTYPE="5" WIDTH="227.066929133858" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" SHADE="0" PCOLOR2="Black" NAMEDLST="Border" PLINEART="1" path="" OnMasterPage="Normal with Audio Only" gXpos="672.322834645669" gYpos="367453.291338585" gWidth="0" gHeight="0" LAYER="2"/>
-        <MASTEROBJECT XPOS="293.877952755906" YPOS="54" OwnPage="5" ItemID="1167950624" PTYPE="4" WIDTH="378.444881889764" HEIGHT="30" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="7.2" TEXTRA="7.2" BEXTRA="3.6" REXTRA="7.2" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L378.445 0 L378.445 30 L0 30 L0 0 Z" copath="M0 0 L378.445 0 L378.445 30 L0 30 L0 0 Z" OnMasterPage="Instructional Events" gXpos="293.877952755906" gYpos="1419344213.37057" gWidth="0" gHeight="0" LAYER="1" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="293.877952755906" YPOS="54" OwnPage="5" ItemID="1167950624" PTYPE="4" WIDTH="378.444881889764" HEIGHT="30" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="7.2" TEXTRA="7.2" BEXTRA="3.6" REXTRA="7.2" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L378.445 0 L378.445 30 L0 30 L0 0 Z" copath="M0 0 L378.445 0 L378.445 30 L0 30 L0 0 Z" OnMasterPage="Instructional Events" gXpos="293.877952755906" gYpos="2232197119.19795" gWidth="0" gHeight="0" LAYER="1" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT CH="Prevent Exploitation of Employee Privileges through Phishing"/>
                 <trail/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="672.322834645669" YPOS="54" OwnPage="5" ItemID="1167944992" PTYPE="4" WIDTH="227.066929133858" HEIGHT="30" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="7.2" TEXTRA="7.2" BEXTRA="3.6" REXTRA="7.2" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L227.067 0 L227.067 30 L0 30 L0 0 Z" copath="M0 0 L227.067 0 L227.067 30 L0 30 L0 0 Z" OnMasterPage="Instructional Events" gXpos="672.322834645669" gYpos="1419344213.37057" gWidth="0" gHeight="0" ALIGN="2" LAYER="1" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="672.322834645669" YPOS="54" OwnPage="5" ItemID="1167944992" PTYPE="4" WIDTH="227.066929133858" HEIGHT="30" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="7.2" TEXTRA="7.2" BEXTRA="3.6" REXTRA="7.2" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L227.067 0 L227.067 30 L0 30 L0 0 Z" copath="M0 0 L227.067 0 L227.067 30 L0 30 L0 0 Z" OnMasterPage="Instructional Events" gXpos="672.322834645669" gYpos="2232197119.19795" gWidth="0" gHeight="0" ALIGN="2" LAYER="1" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle ALIGN="2" CPARENT="Title"/>
                 <ITEXT CPARENT="Title" CH="Instructional Events"/>
                 <trail ALIGN="2"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="672.322834645669" YPOS="234" OwnPage="5" ItemID="1167967008" PTYPE="4" WIDTH="227.066929133858" HEIGHT="30" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="7.2" TEXTRA="7.2" BEXTRA="3.6" REXTRA="7.2" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L227.067 0 L227.067 30 L0 30 L0 0 Z" copath="M0 0 L227.067 0 L227.067 30 L0 30 L0 0 Z" OnMasterPage="Instructional Events" gXpos="672.322834645669" gYpos="1419344393.37057" gWidth="0" gHeight="0" ALIGN="2" LAYER="1" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="672.322834645669" YPOS="234" OwnPage="5" ItemID="1167967008" PTYPE="4" WIDTH="227.066929133858" HEIGHT="30" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="7.2" TEXTRA="7.2" BEXTRA="3.6" REXTRA="7.2" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L227.067 0 L227.067 30 L0 30 L0 0 Z" copath="M0 0 L227.067 0 L227.067 30 L0 30 L0 0 Z" OnMasterPage="Instructional Events" gXpos="672.322834645669" gYpos="2232197299.19795" gWidth="0" gHeight="0" ALIGN="2" LAYER="1" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle ALIGN="2" CPARENT="Title"/>
                 <ITEXT CPARENT="Title" CH="Programming / Interactions"/>
                 <trail ALIGN="2"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="748.011811023622" YPOS="414" OwnPage="5" ItemID="1167961376" PTYPE="4" WIDTH="151.377952755906" HEIGHT="30" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="7.2" TEXTRA="7.2" BEXTRA="3.6" REXTRA="7.2" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L151.378 0 L151.378 30 L0 30 L0 0 Z" copath="M0 0 L151.378 0 L151.378 30 L0 30 L0 0 Z" OnMasterPage="Instructional Events" gXpos="748.011811023622" gYpos="1419344573.37057" gWidth="0" gHeight="0" ALIGN="2" LAYER="1" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="748.011811023622" YPOS="414" OwnPage="5" ItemID="1167961376" PTYPE="4" WIDTH="151.377952755906" HEIGHT="30" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="7.2" TEXTRA="7.2" BEXTRA="3.6" REXTRA="7.2" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L151.378 0 L151.378 30 L0 30 L0 0 Z" copath="M0 0 L151.378 0 L151.378 30 L0 30 L0 0 Z" OnMasterPage="Instructional Events" gXpos="748.011811023622" gYpos="2232197479.19795" gWidth="0" gHeight="0" ALIGN="2" LAYER="1" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle ALIGN="2" CPARENT="Title"/>
                 <ITEXT CPARENT="Title" CH="Performance Objectives"/>
                 <trail ALIGN="2"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="143.1" YPOS="54.6" OwnPage="5" ItemID="1167955744" PTYPE="6" WIDTH="755.689763779528" HEIGHT="351.4" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR2="Black" NAMEDLST="Border" PLINEART="1" path="M0 0 L755.69 0 L755.69 351.4 L0 351.4 L0 0 Z" copath="M0 0 L755.69 0 L755.69 351.4 L0 351.4 L0 0 Z" OnMasterPage="Instructional Events" gXpos="143.1" gYpos="1419344213.97057" gWidth="0" gHeight="0" LAYER="2"/>
-        <MASTEROBJECT XPOS="143.100000000001" YPOS="414.6" OwnPage="5" ItemID="1167875360" PTYPE="6" WIDTH="755.689763779527" HEIGHT="148.8" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Black" NAMEDLST="Border" PLINEART="1" path="M0 0 L755.69 0 L755.69 148.8 L0 148.8 L0 0 Z" copath="M0 0 L755.69 0 L755.69 148.8 L0 148.8 L0 0 Z" OnMasterPage="Instructional Events" gXpos="143.100000000001" gYpos="1419344573.97057" gWidth="0" gHeight="0" LAYER="2"/>
-        <MASTEROBJECT XPOS="293.877952755906" YPOS="54" OwnPage="5" ItemID="1167869728" PTYPE="5" WIDTH="30" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" ROT="90" PWIDTH="1" SHADE="0" PCOLOR2="Black" NAMEDLST="Border" PLINEART="1" path="" OnMasterPage="Instructional Events" gXpos="293.877952755906" gYpos="1419344213.37057" gWidth="0" gHeight="0" LAYER="2"/>
-        <MASTEROBJECT XPOS="142.5" YPOS="84" OwnPage="5" ItemID="1167922976" PTYPE="5" WIDTH="756.889763779528" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" SHADE="0" PCOLOR2="Black" NAMEDLST="Border" PLINEART="1" path="" OnMasterPage="Instructional Events" gXpos="142.5" gYpos="1419344243.37057" gWidth="0" gHeight="0" LAYER="2"/>
-        <MASTEROBJECT XPOS="672.322834645669" YPOS="54" OwnPage="5" ItemID="1167919904" PTYPE="5" WIDTH="352.333333333333" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" ROT="90" PWIDTH="1" SHADE="0" PCOLOR2="Black" NAMEDLST="Border" PLINEART="1" path="" OnMasterPage="Instructional Events" gXpos="672.322834645669" gYpos="1419344213.37057" gWidth="0" gHeight="0" LAYER="2"/>
-        <MASTEROBJECT XPOS="672.322834645669" YPOS="234" OwnPage="5" ItemID="1168045344" PTYPE="5" WIDTH="227.066929133858" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" SHADE="0" PCOLOR2="Black" NAMEDLST="Border" PLINEART="1" path="" OnMasterPage="Instructional Events" gXpos="672.322834645669" gYpos="1419344393.37057" gWidth="0" gHeight="0" LAYER="2"/>
-        <MASTEROBJECT XPOS="672.322834645669" YPOS="264" OwnPage="5" ItemID="1168039712" PTYPE="5" WIDTH="227.066929133858" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" SHADE="0" PCOLOR2="Black" NAMEDLST="Border" PLINEART="1" path="" OnMasterPage="Instructional Events" gXpos="672.322834645669" gYpos="1419344423.37057" gWidth="0" gHeight="0" LAYER="2"/>
+        <MASTEROBJECT XPOS="143.1" YPOS="54.6" OwnPage="5" ItemID="1167955744" PTYPE="6" WIDTH="755.689763779528" HEIGHT="351.4" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR2="Black" NAMEDLST="Border" PLINEART="1" path="M0 0 L755.69 0 L755.69 351.4 L0 351.4 L0 0 Z" copath="M0 0 L755.69 0 L755.69 351.4 L0 351.4 L0 0 Z" OnMasterPage="Instructional Events" gXpos="143.1" gYpos="2232197119.79795" gWidth="0" gHeight="0" LAYER="2"/>
+        <MASTEROBJECT XPOS="143.100000000001" YPOS="414.6" OwnPage="5" ItemID="1167875360" PTYPE="6" WIDTH="755.689763779527" HEIGHT="148.8" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Black" NAMEDLST="Border" PLINEART="1" path="M0 0 L755.69 0 L755.69 148.8 L0 148.8 L0 0 Z" copath="M0 0 L755.69 0 L755.69 148.8 L0 148.8 L0 0 Z" OnMasterPage="Instructional Events" gXpos="143.100000000001" gYpos="2232197479.79795" gWidth="0" gHeight="0" LAYER="2"/>
+        <MASTEROBJECT XPOS="293.877952755906" YPOS="54" OwnPage="5" ItemID="1167869728" PTYPE="5" WIDTH="30" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" ROT="90" PWIDTH="1" SHADE="0" PCOLOR2="Black" NAMEDLST="Border" PLINEART="1" path="" OnMasterPage="Instructional Events" gXpos="293.877952755906" gYpos="2232197119.19795" gWidth="0" gHeight="0" LAYER="2"/>
+        <MASTEROBJECT XPOS="142.5" YPOS="84" OwnPage="5" ItemID="1167922976" PTYPE="5" WIDTH="756.889763779528" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" SHADE="0" PCOLOR2="Black" NAMEDLST="Border" PLINEART="1" path="" OnMasterPage="Instructional Events" gXpos="142.5" gYpos="2232197149.19795" gWidth="0" gHeight="0" LAYER="2"/>
+        <MASTEROBJECT XPOS="672.322834645669" YPOS="54" OwnPage="5" ItemID="1167919904" PTYPE="5" WIDTH="352.333333333333" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" ROT="90" PWIDTH="1" SHADE="0" PCOLOR2="Black" NAMEDLST="Border" PLINEART="1" path="" OnMasterPage="Instructional Events" gXpos="672.322834645669" gYpos="2232197119.19795" gWidth="0" gHeight="0" LAYER="2"/>
+        <MASTEROBJECT XPOS="672.322834645669" YPOS="234" OwnPage="5" ItemID="1168045344" PTYPE="5" WIDTH="227.066929133858" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" SHADE="0" PCOLOR2="Black" NAMEDLST="Border" PLINEART="1" path="" OnMasterPage="Instructional Events" gXpos="672.322834645669" gYpos="2232197299.19795" gWidth="0" gHeight="0" LAYER="2"/>
+        <MASTEROBJECT XPOS="672.322834645669" YPOS="264" OwnPage="5" ItemID="1168039712" PTYPE="5" WIDTH="227.066929133858" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" SHADE="0" PCOLOR2="Black" NAMEDLST="Border" PLINEART="1" path="" OnMasterPage="Instructional Events" gXpos="672.322834645669" gYpos="2232197329.19795" gWidth="0" gHeight="0" LAYER="2"/>
         <PAGEOBJECT XPOS="142.5" YPOS="689.275590551181" OwnPage="1" ItemID="1163785504" PTYPE="4" WIDTH="151.377952755906" HEIGHT="30" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="7.2" TEXTRA="7.2" BEXTRA="3.6" REXTRA="7.2" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L151.378 0 L151.378 30 L0 30 L0 0 Z" copath="M0 0 L151.378 0 L151.378 30 L0 30 L0 0 Z" gXpos="142.5" gYpos="592130.8503937" gWidth="0" gHeight="0" LAYER="1" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
@@ -770,6 +770,142 @@
                 <ITEXT CH="2. State the Objective"/>
                 <para/>
                 <ITEXT CH="5. Learning Guidance"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="672" YPOS="2804.82677165354" OwnPage="4" ItemID="1182759200" PTYPE="4" WIDTH="226" HEIGHT="136.275590551181" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="7.2" TEXTRA="7.2" BEXTRA="7.2" REXTRA="7.2" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L226 0 L226 136.276 L0 136.276 L0 0 Z" copath="M0 0 L226 0 L226 136.276 L0 136.276 L0 0 Z" gXpos="672" gYpos="899" gWidth="0" gHeight="0" LAYER="1" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle CPARENT="Copy"/>
+                <ITEXT CH="Send phishing test emails:"/>
+                <para/>
+                <ITEXT CH="• at random intervals"/>
+                <para/>
+                <ITEXT CH="• to targeted individuals"/>
+                <para/>
+                <ITEXT CH="• progressively growing in numbers"/>
+                <para/>
+                <para/>
+                <ITEXT CH="Keep track of learners' level,"/>
+                <para/>
+                <ITEXT CH="with everyone starting at level 1."/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="672" YPOS="3440.10236220472" OwnPage="5" ItemID="1195637024" PTYPE="4" WIDTH="226" HEIGHT="136.275590551181" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="7.2" TEXTRA="7.2" BEXTRA="7.2" REXTRA="7.2" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L226 0 L226 136.276 L0 136.276 L0 0 Z" copath="M0 0 L226 0 L226 136.276 L0 136.276 L0 0 Z" gXpos="672" gYpos="899" gWidth="0" gHeight="0" LAYER="1" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle CPARENT="Copy"/>
+                <ITEXT CH="Link to a fake login page."/>
+                <para/>
+                <para/>
+                <ITEXT CH="At level 1, the text of the link"/>
+                <para/>
+                <ITEXT CH="matches the URL."/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="672" YPOS="4075.37795275591" OwnPage="6" ItemID="1167931168" PTYPE="4" WIDTH="226" HEIGHT="136.275590551181" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="7.2" TEXTRA="7.2" BEXTRA="7.2" REXTRA="7.2" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L226 0 L226 136.276 L0 136.276 L0 0 Z" copath="M0 0 L226 0 L226 136.276 L0 136.276 L0 0 Z" gXpos="672" gYpos="899" gWidth="0" gHeight="0" LAYER="1" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle CPARENT="Copy"/>
+                <ITEXT CH="After typing 3 password characters,"/>
+                <para/>
+                <ITEXT CH="display Phishing in Progress feedback."/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="672" YPOS="4710.65354330709" OwnPage="7" ItemID="1168105248" PTYPE="4" WIDTH="226" HEIGHT="136.275590551181" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="7.2" TEXTRA="7.2" BEXTRA="7.2" REXTRA="7.2" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L226 0 L226 136.276 L0 136.276 L0 0 Z" copath="M0 0 L226 0 L226 136.276 L0 136.276 L0 0 Z" gXpos="672" gYpos="899" gWidth="0" gHeight="0" LAYER="1" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle CPARENT="Copy"/>
+                <ITEXT CH="Link to download a copy of the Learning Guidance in PDF format."/>
+                <para/>
+                <para/>
+                <ITEXT CH="Instructions on how to contact a human for more details."/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="672" YPOS="7251.75590551181" OwnPage="11" ItemID="1198844192" PTYPE="4" WIDTH="226" HEIGHT="136.275590551181" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="7.2" TEXTRA="7.2" BEXTRA="7.2" REXTRA="7.2" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L226 0 L226 136.276 L0 136.276 L0 0 Z" copath="M0 0 L226 0 L226 136.276 L0 136.276 L0 0 Z" gXpos="672" gYpos="899" gWidth="0" gHeight="0" LAYER="1" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle CPARENT="Copy"/>
+                <ITEXT CH="Attached Spreadsheet with macros"/>
+                <para/>
+                <ITEXT CH="designed to assess the learner."/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="672" YPOS="7887.03149606299" OwnPage="12" ItemID="1181282592" PTYPE="4" WIDTH="226" HEIGHT="136.275590551181" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="7.2" TEXTRA="7.2" BEXTRA="7.2" REXTRA="7.2" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L226 0 L226 136.276 L0 136.276 L0 0 Z" copath="M0 0 L226 0 L226 136.276 L0 136.276 L0 0 Z" gXpos="672" gYpos="899" gWidth="0" gHeight="0" LAYER="1" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle CPARENT="Copy"/>
+                <ITEXT CH="Native notification about macros"/>
+                <breakline/>
+                <ITEXT CH="issued by spreadsheet software."/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="672" YPOS="8522.30708661418" OwnPage="13" ItemID="1203617056" PTYPE="4" WIDTH="226" HEIGHT="136.275590551181" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="7.2" TEXTRA="7.2" BEXTRA="7.2" REXTRA="7.2" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L226 0 L226 136.276 L0 136.276 L0 0 Z" copath="M0 0 L226 0 L226 136.276 L0 136.276 L0 0 Z" gXpos="672" gYpos="899" gWidth="0" gHeight="0" LAYER="1" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle CPARENT="Copy"/>
+                <ITEXT CH="Macros trigger the display of feedback"/>
+                <para/>
+                <ITEXT CH="about the Phishing in Progress, and instructional information which can be printed for reference."/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="672" YPOS="9792.85826771654" OwnPage="15" ItemID="1171526432" PTYPE="4" WIDTH="226" HEIGHT="136.275590551181" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="7.2" TEXTRA="7.2" BEXTRA="7.2" REXTRA="7.2" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L226 0 L226 136.276 L0 136.276 L0 0 Z" copath="M0 0 L226 0 L226 136.276 L0 136.276 L0 0 Z" gXpos="672" gYpos="899" gWidth="0" gHeight="0" LAYER="1" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle CPARENT="Copy"/>
+                <ITEXT CH="Link to fake login page with link text masking the real URL."/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="672" YPOS="10428.1338582677" OwnPage="16" ItemID="1202067744" PTYPE="4" WIDTH="226" HEIGHT="136.275590551181" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="7.2" TEXTRA="7.2" BEXTRA="7.2" REXTRA="7.2" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L226 0 L226 136.276 L0 136.276 L0 0 Z" copath="M0 0 L226 0 L226 136.276 L0 136.276 L0 0 Z" gXpos="672" gYpos="899" gWidth="0" gHeight="0" LAYER="1" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle CPARENT="Copy"/>
+                <ITEXT CH="This outocome is assumed when the learner does not take any of the noticeable actions within 24 hours."/>
+                <para/>
+                <para/>
+                <ITEXT CH="However, the assessment may still be changed from success to failure if the learner falls prey to the test scam after that initial delay."/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="672" YPOS="11063.4094488189" OwnPage="17" ItemID="1171160352" PTYPE="4" WIDTH="226" HEIGHT="136.275590551181" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="7.2" TEXTRA="7.2" BEXTRA="7.2" REXTRA="7.2" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L226 0 L226 136.276 L0 136.276 L0 0 Z" copath="M0 0 L226 0 L226 136.276 L0 136.276 L0 0 Z" gXpos="672" gYpos="899" gWidth="0" gHeight="0" LAYER="1" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle CPARENT="Copy"/>
+                <ITEXT CH="Automated email reply with thanks,"/>
+                <para/>
+                <ITEXT CH="a confirmation and more details about the instructional phishing attempt."/>
+                <para/>
+                <para/>
+                <ITEXT CH="A reply to the automated email shall reach a human."/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="672" YPOS="11698.6850393701" OwnPage="18" ItemID="1180850976" PTYPE="4" WIDTH="226" HEIGHT="136.275590551181" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="7.2" TEXTRA="7.2" BEXTRA="7.2" REXTRA="7.2" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L226 0 L226 136.276 L0 136.276 L0 0 Z" copath="M0 0 L226 0 L226 136.276 L0 136.276 L0 0 Z" gXpos="672" gYpos="899" gWidth="0" gHeight="0" LAYER="1" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle CPARENT="Copy"/>
+                <ITEXT CH="Automated phone answer with thanks,"/>
+                <para/>
+                <ITEXT CH="explanations and learning guidance."/>
+                <para/>
+                <para/>
+                <ITEXT CH="Option to talk to a human afterwards. "/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="672" YPOS="12333.9606299213" OwnPage="19" ItemID="1203438368" PTYPE="4" WIDTH="226" HEIGHT="136.275590551181" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="7.2" TEXTRA="7.2" BEXTRA="7.2" REXTRA="7.2" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L226 0 L226 136.276 L0 136.276 L0 0 Z" copath="M0 0 L226 0 L226 136.276 L0 136.276 L0 0 Z" gXpos="672" gYpos="899" gWidth="0" gHeight="0" LAYER="1" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle CPARENT="Copy"/>
+                <ITEXT CH="After typing 3 password characters,"/>
+                <para/>
+                <ITEXT CH="display Phishing in Progress feedback."/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="672" YPOS="12969.2362204724" OwnPage="20" ItemID="1179994912" PTYPE="4" WIDTH="226" HEIGHT="136.275590551181" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="7.2" TEXTRA="7.2" BEXTRA="7.2" REXTRA="7.2" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L226 0 L226 136.276 L0 136.276 L0 0 Z" copath="M0 0 L226 0 L226 136.276 L0 136.276 L0 0 Z" gXpos="672" gYpos="899" gWidth="0" gHeight="0" LAYER="1" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle CPARENT="Copy"/>
+                <ITEXT CH="Link to download a copy of the Learning Guidance in PDF format."/>
+                <para/>
+                <para/>
+                <ITEXT CH="Instructions on how to contact a human for more details."/>
                 <trail/>
             </StoryText>
         </PAGEOBJECT>
