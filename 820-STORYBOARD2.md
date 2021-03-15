@@ -40,14 +40,21 @@ correspond to three moments in a typical lesson: start, middle and end.
 
 The storyboard highlights the instructional events involved in the tests
 that we designed to train Horizon workforce to fight phishing on the go.
-You may notice that their order is atypical:
+
+You may notice that the first instructional events (attracting attention,
+stating the objective, recalling prerequisites) are not performed for each
+individual learner, but at the level of the organization as a whole, through
+posters and a select group of learning champions.
+
+Then for the phishing practice targeting individual volunteers and employees,
+the order of instructional events is atypical:
 
   * **Before: Instructional Phishing Email**
-    - 9\. Generalization and Spaced Reviews,
     - 4\. Plain Stimulus, *Without* Emphasis,
     - 8\. Assessment
+    - 9\. Generalization and Spaced Reviews,
 
-  * **After: Instructional Scam**
+  * **After: (Only when Failing the Test) Instructional Scam**
     - 1\. Attracting Attention,
     - 7\. Close Feedback,
     - 2\. Statement of Performance Objective.
