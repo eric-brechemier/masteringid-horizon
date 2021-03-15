@@ -56,8 +56,9 @@ the order of instructional events is atypical:
 
   * **After: (Only when Failing the Test) Instructional Scam**
     - 1\. Attracting Attention,
-    - 7\. Close Feedback,
-    - 2\. Statement of Performance Objective.
+    - 7\. Feedback,
+    - 2\. Statement of Performance Objective,
+    - 5\. Learning Guidance.
 
 That is because the goal of this particular training is to
 **learn to notice the unexpected**. The emphasis usually given
