@@ -38,9 +38,10 @@ correspond to three moments in a typical lesson: start, middle and end.
     - 8\. Assessing performance,
     - 9\. Enhancing retention and transfer.
 
-The storyboard highlights the instructional events involved in the
-instructional phishing tests. These tests have been design to train
-the Horizon Foundation workforce to fight phishing on the go.
+The storyboard highlights the instructional events involved at each step
+of the instructional phishing tests and the associated learning journey.
+These tests have been design to train the Horizon Foundation workforce
+to fight phishing on the go.
 
 You may notice that the first instructional events (attracting attention,
 stating the objective, recalling prerequisites) are not performed for each
