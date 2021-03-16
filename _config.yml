@@ -5,5 +5,5 @@ author:
   name: Eric Bréchemier
   github: eric-brechemier
 
-exclude: ["portfolio", "assets", "research", "source", "templates"]
+exclude: ["assets", "portfolio", "research", "source", "templates"]
 include: ["assets/miro-board/Needs-Analysis-Questions.csv"]
