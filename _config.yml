@@ -4,3 +4,6 @@ description: Instructional Design against Phishing
 author:
   name: Eric Bréchemier
   github: eric-brechemier
+
+exclude: ["portfolio", "assets", "research", "source", "templates"]
+include: ["assets/miro-board/Needs-Analysis-Questions.csv"]
