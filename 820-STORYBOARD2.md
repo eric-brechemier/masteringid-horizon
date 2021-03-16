@@ -12,31 +12,31 @@ but remarks that the numbering only indicates *an approximate typical order*.
 These events of instruction may occur in a different order and are not
 necessarily present in every lesson:
 
-  1. Gaining attention
-  2. Informing learners of the objective
-  3. Stimulating recall of prior learning
-  4. Presenting the stimulus
-  5. Providing learning guidance
-  6. Eliciting performance
-  7. Providing feedback
-  8. Assessing performance
-  9. Enhancing retention and transfer
+  1. Gaining attention,
+  2. Informing learners of the objective,
+  3. Stimulating recall of prior learning,
+  4. Presenting the stimulus,
+  5. Providing learning guidance,
+  6. Eliciting performance,
+  7. Providing feedback,
+  8. Assessing performance,
+  9. Enhancing retention and transfer.
 
 We have found convenient to split these 9 events evenly into 3 groups which
 correspond to three moments in a typical lesson: start, middle and end.
 
   * **Start**
-    - 1\. Attention,
-    - 3\. Prerequistes,
-    - 2\. Performance Objective
+    - 1\. Gaining attention,
+    - 3\. Stimulating recall of prior learning,
+    - 2\. Informing learners of the objective
   * **Middle**
-    - 5\. Advanced Organizers,
-    - 4\. Emphasized Stimulus,
-    - 6\. Guided Performance
+    - 5\. Providing learning guidance,
+    - 4\. Presenting the stimulus,
+    - 6\. Eliciting performance
   * **End**
-    - 7\. Close Feedback,
-    - 8\. Assessment,
-    - 9\. Generalization and Spaced Reviews.
+    - 7\. Providing feedback,
+    - 8\. Assessing performance,
+    - 9\. Enhancing retention and transfer.
 
 The storyboard highlights the instructional events involved in the tests
 that we designed to train Horizon workforce to fight phishing on the go.
