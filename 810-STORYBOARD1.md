@@ -9,7 +9,7 @@ of the learning experience for the first subgoal:
 
 * [Storyboard #1: Prevent Access to Sensitive Information of Donors](810-storyboard1.pdf)
 
-While this experience may be support by the development of e-learning
+While this experience may be supported by the development of e-learning
 resources, we recommend to put the emphasis on hands-on activities
 working with actual administration software and realistic data as much
 as possible. For example, an activity may start with a presentation of the
