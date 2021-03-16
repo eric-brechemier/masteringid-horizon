@@ -1,3 +1,6 @@
 theme: jekyll-theme-primer
 title: Horizon Project
-description: Instructional Design by Eric Bréchemier, for the Master Class led by Connie Malamed from January to March 2021
+description: Instructional Design against Phishing
+author:
+  name: Eric Bréchemier
+  github: eric-brechemier
