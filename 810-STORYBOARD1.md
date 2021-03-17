@@ -5,7 +5,8 @@
 [![Storyboard #1: Prevent Access to Sensitive Information of Donors](810-storyboard1-preview.jpg)](810-storyboard1.pdf)
 
 The first storyboard presents a high-level, visual overview
-of the learning experience for the first subgoal:
+of the learning experience for the first subgoal, addressing
+the performance gap in the IT department:
 
 * [Storyboard #1: Prevent Access to Sensitive Information of Donors](810-storyboard1.pdf)
 
